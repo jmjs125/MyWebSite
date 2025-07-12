@@ -1,7 +1,7 @@
 ﻿body 
 {
 
-    background-color: black;
+    background-color: red;
 }
 
 h1 {
@@ -21,7 +21,7 @@ h1 {
         text-align: center;
         padding: 15px 215px;
         text-decoration: none;
-        font-size: 17px;
+        font-size: 18px;
     }
 
 
