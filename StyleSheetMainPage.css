@@ -1,4 +1,5 @@
-*
+/* StyleSheetMainPage.css */
+* 
 {
     padding: 0;
     margin:0;
@@ -14,67 +15,52 @@ h1
     text-align:center;
     color:white;
 }
+
 ul
 {
-    
     list-style: none;
     background: #808080;
-    padding: 0;
-    margin: 0;
-    display: flex;              
-    justify-content: center;  
 }
 
-    ul li 
-    {
-        display: inline-block;
-        position: relative;
-    }
+ul li 
+{
+    display: inline-block;
+    position: relative;
+}
 
-    ul li a 
-    { 
-  display: flex;
-    align-items: center;        
-    justify-content: center;   
+ul li a 
+{ 
+    display:block;
     padding: 20px 25px;
-    color: white;
+    color:white;
     text-decoration: none;
+    text-align: center;
     font-size: 20px;
-    height: 100%; 
-    }
+}
 
-        ul li ul.DropDowns li
-        {
-            display:block;
-        }
+ul li ul.DropDowns li
+{
+    display:block;
+}
 
-        ul li ul.DropDowns
-        {
-            background: #808080;
-    position: absolute;
-    display: none;
-    top: 100%;              /* No gap below menu item */
-    left: 0;
-    min-width: 200px;
-    padding: 0;
-    margin: 0;
-    border-top: 1px solid #666; /* Optional visual separator */
-    z-index: 999;
-            
-        }
+ul li ul.DropDowns
+{
+    width:100%;
+    background:#808080;
+    position:absolute;
+    z-index:999;
+    display:none;
+}
 
-        ul li a:hover
-        {
-            background:#333;
+ul li a:hover
+{
+    background:#333;
+}
 
-        }
-
-        ul li:hover ul.DropDowns 
-        {
-            display:block;
-
-        }
-
+ul li:hover ul.DropDowns 
+{
+    display:block;
+}
 
 .MainPageTextbox 
 {
@@ -85,6 +71,5 @@ ul
     margin: 20px;
     position:absolute;
     left:30%;
-
 }
 
