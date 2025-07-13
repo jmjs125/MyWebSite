@@ -50,11 +50,16 @@ ul
 
         ul li ul.DropDowns
         {
-            width:100%;
-            background:#808080;
-            position:absolute;
-            z-index:999;
-            display:none;
+            background: #808080;
+    position: absolute;
+    display: none;
+    top: 100%;              /* No gap below menu item */
+    left: 0;
+    min-width: 200px;
+    padding: 0;
+    margin: 0;
+    border-top: 1px solid #666; /* Optional visual separator */
+    z-index: 999;
             
         }
 
