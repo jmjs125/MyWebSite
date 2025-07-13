@@ -19,7 +19,7 @@ ul
     
     list-style: none;
     background: #808080;
-    padding: 100;
+    padding: 10;
     margin: 0;
     display: flex;              
     justify-content: center;  
@@ -55,7 +55,7 @@ ul
             position:absolute;
             z-index:999;
             display:none;
-            padding:0;
+            
         }
 
         ul li a:hover
