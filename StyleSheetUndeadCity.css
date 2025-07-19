@@ -1,4 +1,9 @@
-﻿body.TheUndeadCity
+﻿
+* {
+    padding: 0;
+    margin: 0;
+}
+body.TheUndeadCity
 {
     background-color:black;
 }
