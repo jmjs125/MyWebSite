@@ -3,7 +3,10 @@
     background-color:black;
 }
 
-
+ul {
+    list-style: none;
+    background: #808080;
+}
 ul li {
     display: inline-block;
     position: relative;
