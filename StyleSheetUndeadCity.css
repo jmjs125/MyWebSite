@@ -74,7 +74,7 @@ ul {
 
 .video-container {
     display: flex;
-    justify-content: center;
+    justify-content: right;
     margin-top: 20px;
    
 }
