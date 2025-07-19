@@ -13,11 +13,7 @@ h1{
 }
 
 
-.video-container {
-    display: flex;
-    justify-content: center;
-    margin-right: 200px;
-}
+
 
 body.TheUndeadCity
 {
@@ -74,4 +70,11 @@ ul {
 
     .box h2 {
         margin-top: 0;
+    }
+    
+    .video-container 
+    {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
     }
