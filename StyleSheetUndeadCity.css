@@ -71,10 +71,10 @@ ul {
     .box h2 {
         margin-top: 0;
     }
-    
-    .video-container 
-    {
+
+.video-container {
     display: flex;
     justify-content: center;
     margin-top: 20px;
-    }
+    margin-top: 20px;
+}
