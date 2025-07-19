@@ -79,11 +79,7 @@ ul {
 
 .video-Text-container {
     display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    gap: 30px;
-    margin-top: 30px;
-    padding: 0 20px;
+    justify-content: left;
     flex-wrap: wrap;
 }
 
