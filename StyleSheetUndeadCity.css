@@ -80,7 +80,7 @@ ul {
 .video-Text-container {
     display: flex;
     justify-content: left;
-    flex-wrap: wrap;
+    
 }
 
 .video-wrapper iframe {
