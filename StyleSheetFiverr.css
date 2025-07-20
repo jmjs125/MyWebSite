@@ -1,5 +1,9 @@
 ﻿body.Fiverr {
-    background: #ffffff, #e0f7e9
+    background: linear-gradient(to bottom, #ffffff, #e0f7e9);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 }
 
 
