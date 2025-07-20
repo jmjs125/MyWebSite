@@ -54,3 +54,7 @@ ul {
 p {
     color: black;
 }
+.text-wrapper {
+    max-width: 700px;
+    color: white;
+}
