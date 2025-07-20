@@ -20,7 +20,10 @@ h2{
 
 
 body.TheUndeadCity {
-    background: linear-gradient( #000000, #330000);
+    background: linear-gradient(to bottom, #000000, #330000);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 ul {
     list-style: none;
