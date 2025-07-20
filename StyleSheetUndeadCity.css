@@ -20,9 +20,8 @@ h2{
 
 
 
-body.TheUndeadCity
-{
-    background-color:black;
+body.TheUndeadCity {
+    background: linear-gradient(to bottom, #121212, #1a1a1a);
 }
 ul {
     list-style: none;
