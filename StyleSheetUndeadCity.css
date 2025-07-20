@@ -19,9 +19,8 @@ h2{
 
 
 
-
 body.TheUndeadCity {
-    background: linear-gradient(to top, #000000, #330000);
+    background: linear-gradient( #000000, #330000);
 }
 ul {
     list-style: none;
