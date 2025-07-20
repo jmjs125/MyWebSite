@@ -4,7 +4,7 @@
 }
 h1 {
     text-align: center;
-    color: white;
+    color: black;
 }
 body.Fiverr {
     background: linear-gradient(to bottom, #00ff90, #fffff1);
@@ -52,5 +52,5 @@ ul {
             display: block;
         }
 p {
-    color: white;
+    color: black;
 }
