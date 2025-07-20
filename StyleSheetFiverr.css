@@ -51,3 +51,6 @@ ul {
         ul li:hover ul.DropDowns {
             display: block;
         }
+p {
+    color: white;
+}
