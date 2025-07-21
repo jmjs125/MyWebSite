@@ -73,8 +73,5 @@ p {
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: left;
-    gap: 40px;
-    padding: 40px;
-    max-width: 1200px;
     margin: 0 auto;
 }
