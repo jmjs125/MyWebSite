@@ -57,6 +57,7 @@ p {
 .text-wrapper {
     max-width: 700px;
     color: black;
+   
 }
    .box
     {
@@ -68,13 +69,4 @@ p {
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     text-align: right;
 }
-.Container {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    justify-content: left;
-    gap: 40px;
-    padding: 40px;
-    max-width: 1200px;
-    margin: 0 auto;
-}
+
