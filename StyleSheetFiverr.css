@@ -54,19 +54,12 @@ ul {
 p {
     color: black;
 }
-.text-wrapper {
+.text-wrapper1 {
     max-width: 700px;
     color: black;
-   
-}
-   .box
-    {
-    background-color: black;
-    border: 1px solid #000000;
-    border-radius: 10px;
-    padding: 20px;
-    width: 250px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     text-align: right;
+
 }
+
+  
 
