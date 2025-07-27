@@ -94,3 +94,11 @@ p {
 .download-section {
     max-width: 500px;
 }
+
+.download-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    margin: 40px;
+    flex-wrap: wrap;
+}
