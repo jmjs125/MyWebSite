@@ -72,5 +72,20 @@ p {
     color: black;
     text-align: left;
 }
-  
 
+.download-button {
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 18px;
+    color: white;
+    background-color: #00b36b;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    box-shadow: 1px 1px 6px #888;
+    transition: background-color 0.3s;
+}
+
+    .download-button:hover {
+        background-color: #00995c;
+    }
