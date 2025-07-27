@@ -78,6 +78,7 @@ p {
     margin-top: 20px;
     font-size: 18px;
     color: white;
+    background-color: #00b36b;
     padding: 12px 25px;
     text-decoration: none;
     border-radius: 8px;
@@ -90,3 +91,6 @@ p {
     .download-button:hover {
         background-color: #00995c;
     }
+.download-section {
+    max-width: 500px;
+}
