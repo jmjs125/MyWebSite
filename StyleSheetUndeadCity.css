@@ -132,7 +132,7 @@ ul {
 .ScreenShot {
     max-width: 320px;
     color: white;
-    text-align: right;
+    text-align: center;
 }
 .textScreenShot {
     margin-top: 10px;
@@ -148,6 +148,6 @@ textvideoShot {
 text-wrapper {
     max-width: 320px;
     color: white;
-    text-align: left;
+    text-align: center;
 }
 
