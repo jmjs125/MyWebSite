@@ -7,13 +7,9 @@ p {
     color: white;
 }
 
-h1{
-    text-align: center;
-    color: white;
-}
-h2{
-    text-align: center;
-    color: white;
+h1, h2 {
+    font-weight: 700;
+    letter-spacing: 1px;
 }
 
 
@@ -75,9 +71,7 @@ ul {
   
 }
 
-    .box h2 {
-        margin-top: 0;
-    }
+    
 
 
 /* Corrected CSS selector */
