@@ -72,7 +72,7 @@ ul {
     width: 250px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     text-align: center;
-    font-size: 20px;
+  
 }
 
     .box h2 {
@@ -89,7 +89,8 @@ ul {
 
 .text-wrapper {
     max-width: 700px;
-    color: white;
+    color: white; 
+    font-size: 20px;
 }
 
 
