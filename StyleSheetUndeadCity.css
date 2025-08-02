@@ -88,7 +88,7 @@ ul {
 .container {
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    justify-content:center;
     align-items: start;
     flex-wrap: wrap;
     padding: 40px;
@@ -100,6 +100,7 @@ ul {
     flex-direction: row;
     flex-wrap: wrap;
     gap: 20px;
+    align-items: flex-start;
 }
 
 /* Fix video/text layout */
@@ -129,23 +130,23 @@ ul {
         background-color: darkred;
     }
 
-.ScreenShot {
+.ScreenShot{
     max-width: 320px;
     color: white;
     text-align: center;
 }
-.textScreenShot {
+.textScreenShot{
     margin-top: 10px;
     font-size: 18px;
     line-height: 1.4;
 }
-textvideoShot {
+.textvideoShot {
     margin-top: 10px;
     font-size: 18px;
     line-height: 1.4;
 }
 
-text-wrapper {
+.text-wrapper {
     max-width: 320px;
     color: white;
     text-align: center;
