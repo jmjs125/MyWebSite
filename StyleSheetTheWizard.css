@@ -6,11 +6,9 @@ h1
     color:white;
     text-align:center;
 }
-ul 
-{
-    list-style:none;
-    background:#808080;
-
+ul {
+    list-style: none;
+    background: #236192;
 }
     ul li
     {
