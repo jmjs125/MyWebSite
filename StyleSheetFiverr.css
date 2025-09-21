@@ -121,3 +121,12 @@ p {
 
    
 }
+.swiper .swiper-button-prev, .swiper .swiper-button-next 
+{
+    color:white;
+}
+
+.swiper .swiper-pagination-bullet-active 
+{
+    background: #fff;
+}
