@@ -107,3 +107,14 @@ p {
     height: 500px;
     background:#ff0000;
 }
+.swiper
+{
+    width: fit-content;
+    height:fit-content;
+    
+}
+.swiper-slide img 
+{
+    width: 100%;
+   
+}
