@@ -103,7 +103,7 @@ p {
     flex-wrap: wrap;
 }
 .ImageContainer {
-    width: 90px;
-    height: 90px;
+    width: 280px;
+    height: 2800px;
     background:#ff0000;
 }
