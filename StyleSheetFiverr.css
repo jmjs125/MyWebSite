@@ -105,7 +105,7 @@ p {
 .ImageContainer {
     width: 300px;
     height: 300px;
-    background: #00b36b;
+    background: linear-gradient(to bottom, #00ff90, #fffff1);
     display: flex;
     align-items: center;
     justify-content: center;
