@@ -112,7 +112,7 @@ p {
 .swiper
 {
     width: 80%;
-    height:80%;
+    height:fit-content;
     
 }
 .swiper-slide img 
