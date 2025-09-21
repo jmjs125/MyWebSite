@@ -106,6 +106,9 @@ p {
     width: 125px;
     height: 125px;
     background:#ff0000;
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 .swiper
 {
