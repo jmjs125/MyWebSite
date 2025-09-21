@@ -103,8 +103,8 @@ p {
     flex-wrap: wrap;
 }
 .ImageContainer {
-    width: 300px;
-    height: 300px;
+    width: 750px;
+    height: 750px;
     background: linear-gradient(to bottom, #00ff90, #fffff1);
     display: flex;
     align-items: center;
