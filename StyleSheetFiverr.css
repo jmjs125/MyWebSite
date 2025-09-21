@@ -103,8 +103,8 @@ p {
     flex-wrap: wrap;
 }
 .ImageContainer {
-    width: 500px;
-    height: 500px;
+    width: 125px;
+    height: 125px;
     background:#ff0000;
 }
 .swiper
