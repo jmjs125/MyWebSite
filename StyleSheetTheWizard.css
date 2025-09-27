@@ -10,7 +10,7 @@ h1 {
 }
 
 body.TheWizard {
-    background: linear-gradient(to bottom, #00ff90, #fffff1);
+    background-color: #236192;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
