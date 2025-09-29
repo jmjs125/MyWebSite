@@ -10,8 +10,7 @@ h1 {
 }
 
 body.EscapeRoom {
-    background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
-    color: #ffffff;
+  background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
