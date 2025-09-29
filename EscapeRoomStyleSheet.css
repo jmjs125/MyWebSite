@@ -6,12 +6,13 @@
 
 h1 {
     text-align: center;
-    color: black;
+    color: #ffffff;
+
 }
 
 body.EscapeRoom {
     background: linear-gradient(to bottom, #2c003e, #000000);
-    color: #ffffff;
+    
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
