@@ -1,4 +1,15 @@
-﻿body.Defence For The Future {
+﻿
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+body.Defence For The Future {
     background-color: #236192;
     background-attachment: fixed;
     background-repeat: no-repeat;
